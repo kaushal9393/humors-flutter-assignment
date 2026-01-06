@@ -1,16 +1,21 @@
-# wellness_app
+# Humors Tech Flutter Assignment
 
-A new Flutter project.
+This project is a Flutter internship assignment based on the provided Figma design.
 
-## Getting Started
+## Features
+- Two screens based on Figma UI
+- Working relaxation progress bar with + and − buttons
+- Clean wellness-style UI
+- Navigation between screens
+- Pure Flutter & Dart (no backend)
 
-This project is a starting point for a Flutter application.
+## How to Run
+1. Clone the repository
+2. Run `flutter pub get`
+3. Run `flutter run`
 
-A few resources to get you started if this is your first Flutter project:
+## Tech Stack
+- Flutter
+- Dart
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Thank you for reviewing this assignment.
